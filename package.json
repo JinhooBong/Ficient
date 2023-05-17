@@ -1,0 +1,13 @@
+{
+  "name": "ficient",
+  "version": "1.0.0",
+  "description": "An online application to find cheapest times to fly to a location",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
